@@ -6,7 +6,7 @@ body {
 
 main#container {
     background-color: whitesmoke;
-    border: 5px groove green;
+    border: 5px double green;
 }
 
 h1.titulo {
